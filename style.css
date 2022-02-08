@@ -1,0 +1,19 @@
+body {
+  height: 2000px;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: rgb(237, 237, 171);
+}
+#experience {
+  background-color: rgb(237, 237, 171);
+}
+.card {
+  border: 3px solid rgb(213, 202, 202);
+}
+footer {
+  background-color: rgb(158, 220, 220);
+}
+section {
+  padding-top: 5rem;
+}
